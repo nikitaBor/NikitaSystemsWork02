@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//Nikita Borisov
+//Nikita Borisov(with help from Tiffany Chen)
 //Systems with DW
 //Work02: Problem 35: Circular Primes
 
